@@ -1,0 +1,27 @@
+C:\Users\27732\Desktop\Brackets\Brackets\obj\Debug\netcoreapp3.1\Brackets.csprojAssemblyReference.cache
+C:\Users\27732\Desktop\Brackets\Brackets\obj\Debug\netcoreapp3.1\Brackets.AssemblyInfoInputs.cache
+C:\Users\27732\Desktop\Brackets\Brackets\obj\Debug\netcoreapp3.1\Brackets.AssemblyInfo.cs
+C:\Users\27732\Desktop\Brackets\Brackets\obj\Debug\netcoreapp3.1\Brackets.csproj.CoreCompileInputs.cache
+C:\Users\27732\Desktop\Brackets\Brackets\bin\Debug\netcoreapp3.1\Brackets.exe
+C:\Users\27732\Desktop\Brackets\Brackets\bin\Debug\netcoreapp3.1\Brackets.deps.json
+C:\Users\27732\Desktop\Brackets\Brackets\bin\Debug\netcoreapp3.1\Brackets.runtimeconfig.json
+C:\Users\27732\Desktop\Brackets\Brackets\bin\Debug\netcoreapp3.1\Brackets.runtimeconfig.dev.json
+C:\Users\27732\Desktop\Brackets\Brackets\bin\Debug\netcoreapp3.1\Brackets.dll
+C:\Users\27732\Desktop\Brackets\Brackets\bin\Debug\netcoreapp3.1\Brackets.pdb
+C:\Users\27732\Desktop\Brackets\Brackets\obj\Debug\netcoreapp3.1\Brackets.dll
+C:\Users\27732\Desktop\Brackets\Brackets\obj\Debug\netcoreapp3.1\Brackets.pdb
+C:\Users\27732\Desktop\Brackets\Brackets\obj\Debug\netcoreapp3.1\Brackets.genruntimeconfig.cache
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\Brackets_Stack\Brackets\bin\Debug\netcoreapp3.1\Brackets.exe
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\Brackets_Stack\Brackets\bin\Debug\netcoreapp3.1\Brackets.deps.json
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\Brackets_Stack\Brackets\bin\Debug\netcoreapp3.1\Brackets.runtimeconfig.json
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\Brackets_Stack\Brackets\bin\Debug\netcoreapp3.1\Brackets.runtimeconfig.dev.json
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\Brackets_Stack\Brackets\bin\Debug\netcoreapp3.1\Brackets.dll
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\Brackets_Stack\Brackets\bin\Debug\netcoreapp3.1\Brackets.pdb
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\Brackets_Stack\Brackets\obj\Debug\netcoreapp3.1\Brackets.AssemblyInfoInputs.cache
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\Brackets_Stack\Brackets\obj\Debug\netcoreapp3.1\Brackets.AssemblyInfo.cs
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\Brackets_Stack\Brackets\obj\Debug\netcoreapp3.1\Brackets.csproj.CoreCompileInputs.cache
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\Brackets_Stack\Brackets\obj\Debug\netcoreapp3.1\Brackets.dll
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\Brackets_Stack\Brackets\obj\Debug\netcoreapp3.1\Brackets.pdb
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\Brackets_Stack\Brackets\obj\Debug\netcoreapp3.1\Brackets.genruntimeconfig.cache
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\Brackets_Stack\Brackets\obj\Debug\netcoreapp3.1\Brackets.csproj.AssemblyReference.cache
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\Brackets_Stack\Brackets\obj\Debug\netcoreapp3.1\Brackets.GeneratedMSBuildEditorConfig.editorconfig

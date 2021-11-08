@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WasherDryer", "WasherDryer\WasherDryer.csproj", "{99529C02-AA40-465D-949C-769D677F1C51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99529C02-AA40-465D-949C-769D677F1C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99529C02-AA40-465D-949C-769D677F1C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99529C02-AA40-465D-949C-769D677F1C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99529C02-AA40-465D-949C-769D677F1C51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42360E88-131B-45E9-A54F-1CFBDAB4366B}
+	EndGlobalSection
+EndGlobal

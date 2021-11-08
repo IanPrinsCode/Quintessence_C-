@@ -1,0 +1,8 @@
+
+opCount for TRADITIONAL ARRAY:		1
+Execution time: 00:00:00.0419927
+
+Execution time: 00:00:01.9418889
+
+Execution time: 00:00:00.0015542
+

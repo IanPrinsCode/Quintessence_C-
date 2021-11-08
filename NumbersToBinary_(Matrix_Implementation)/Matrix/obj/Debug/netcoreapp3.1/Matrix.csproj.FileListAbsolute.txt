@@ -1,0 +1,27 @@
+C:\Users\27732\Desktop\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+C:\Users\27732\Desktop\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+C:\Users\27732\Desktop\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+C:\Users\27732\Desktop\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+C:\Users\27732\Desktop\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\27732\Desktop\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\27732\Desktop\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+C:\Users\27732\Desktop\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+C:\Users\27732\Desktop\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+C:\Users\27732\Desktop\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\27732\Desktop\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\27732\Desktop\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\27732\Desktop\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\NumbersToBinary_Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\NumbersToBinary_Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\NumbersToBinary_Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\NumbersToBinary_Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\NumbersToBinary_Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\NumbersToBinary_Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\NumbersToBinary_Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.AssemblyReference.cache
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\NumbersToBinary_Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\NumbersToBinary_Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\NumbersToBinary_Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\NumbersToBinary_Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\NumbersToBinary_Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\NumbersToBinary_Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\NumbersToBinary_Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lax2O/rfh8LuSTa5oz0XocbMWxqTs1+dBaG8JDBFrJVJbwBS+vtB9Qfmrxpe5NDncnZX8EKKtm3ML4Ba3BKPyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\27732\\Desktop\\Quintessence C# Projects\\BonusProjects\\DamData\\DamData\\DamData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\27732\\.nuget\\packages\\gembox.spreadsheet\\47.0.1207\\gembox.spreadsheet.47.0.1207.nupkg.sha512",
+    "C:\\Users\\27732\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512"
+  ],
+  "logs": []
+}

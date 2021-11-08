@@ -1,0 +1,13 @@
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\WasherDryer\WasherDryer\WasherDryer\obj\Debug\netcoreapp3.1\WasherDryer.AssemblyInfoInputs.cache
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\WasherDryer\WasherDryer\WasherDryer\obj\Debug\netcoreapp3.1\WasherDryer.AssemblyInfo.cs
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\WasherDryer\WasherDryer\WasherDryer\obj\Debug\netcoreapp3.1\WasherDryer.csproj.CoreCompileInputs.cache
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\WasherDryer\WasherDryer\WasherDryer\bin\Debug\netcoreapp3.1\WasherDryer.exe
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\WasherDryer\WasherDryer\WasherDryer\bin\Debug\netcoreapp3.1\WasherDryer.deps.json
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\WasherDryer\WasherDryer\WasherDryer\bin\Debug\netcoreapp3.1\WasherDryer.runtimeconfig.json
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\WasherDryer\WasherDryer\WasherDryer\bin\Debug\netcoreapp3.1\WasherDryer.runtimeconfig.dev.json
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\WasherDryer\WasherDryer\WasherDryer\bin\Debug\netcoreapp3.1\WasherDryer.dll
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\WasherDryer\WasherDryer\WasherDryer\bin\Debug\netcoreapp3.1\WasherDryer.pdb
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\WasherDryer\WasherDryer\WasherDryer\obj\Debug\netcoreapp3.1\WasherDryer.dll
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\WasherDryer\WasherDryer\WasherDryer\obj\Debug\netcoreapp3.1\WasherDryer.pdb
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\WasherDryer\WasherDryer\WasherDryer\obj\Debug\netcoreapp3.1\WasherDryer.genruntimeconfig.cache
+C:\Users\27732\Desktop\Quintessence C# Projects\BonusProjects\WasherDryer\WasherDryer\WasherDryer\obj\Debug\netcoreapp3.1\WasherDryer.GeneratedMSBuildEditorConfig.editorconfig
